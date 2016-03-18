@@ -1,7 +1,5 @@
 # UI5 Community Wiki
 
-Welcome to the UI5 Community Wiki. This document is designed to be a one-stop-shop for any community documentation that doesn't fit within the scope of the official UI5 documentation. Think tips, patterns, HOWTOs, workarounds for bugs, etc.
+Welcome to the repository for the [UI5 Community Wiki](https://github.com/UI5Community/wiki/wiki).
 
-Contributions from all are welcome.
-
-More to come soon!
+Contributions from all are welcome - please see the wiki itself for more information.
